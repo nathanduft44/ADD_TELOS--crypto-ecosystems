@@ -290,3 +290,69 @@ url = "https://github.com/telosnetwork/WETH10"
 
 [[repo]]
 url = "https://github.com/telosnetwork/WTLOS"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-docs"
+
+[[repo]]
+url = "https://github.com/telosnetwork/teloscan"
+
+[[repo]]
+url = "https://github.com/telosnetwork/app-telos-native"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-distribute"
+
+[[repo]]
+url = "https://github.com/telosnetwork/rng-oracle-bridge"
+
+[[repo]]
+url = "https://github.com/telosnetwork/delphi-oracle-bridge"
+
+[[repo]]
+url = "https://github.com/telosnetwork/open-block-explorer"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-wallet"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-monitor"
+
+[[repo]] 
+url = "https://github.com/telosnetwork/telos-oracle-scripts"
+
+[[repo]]
+url = "https://github.com/telosnetwork/hyperion-telos-evm-plugin"
+
+[[repo]]
+url = "https://github.com/telosnetwork/token-list"
+
+[[repo]]
+url = "https://github.com/telosnetwork/safe-react"
+
+[[repo]]
+url = "https://github.com/telosnetwork/safe-deployments"
+
+[[repo]]
+url = "https://github.com/telosnetwork/awesome-telos"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-decide"
+
+[[repo]]
+url = "https://github.com/telosnetwork/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/telosnetwork/safe-config-service"
+
+[[repo]]
+url = "https://github.com/telosnetwork/safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-evm-docker"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos.contracts"
+
+[[repo]]
+url = "https://github.com/telosnetwork/validators-nodehttps://github.com/telosnetwork/validators-node"
